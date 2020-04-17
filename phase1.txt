@@ -4,3 +4,9 @@ Anders Jensen, akj46
 
 Assignment Description:
 Phase I: Brainstorming. Due April 17. Set up a Github repository for your project files (or using the file-sharing service of your choice). Meet (virtually) with your group if you are collaborating (see Zoom guide). Write down at least three ideas for datasets. Include as much information as possible about the availability of data. Submit a .txt file on CMS that contains a link to your Github repository and your dataset ideas.
+
+Link to Github repository:
+https://github.com/kzo2/Info-2950-Final-Project
+
+Our dataset ideas are in a Python 3 file in our Info-2950-Final-Project repository, titled phase1_data_set_ideas.ipynb.
+
